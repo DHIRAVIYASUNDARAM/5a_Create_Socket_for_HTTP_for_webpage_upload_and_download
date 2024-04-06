@@ -62,4 +62,4 @@ if __name__ == "__main__":
 ![Screenshot 2024-04-06 111825](https://github.com/DHIRAVIYASUNDARAM/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/165143880/64cbff8a-f733-4f68-9438-d235691b2e16)
 
 ## Result
-Thus the socket for HTTP for web page upload and download created and Executed
+Thus the socket for HTTP for web page upload and download created and Executed.
